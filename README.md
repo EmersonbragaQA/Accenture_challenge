@@ -1,2 +1,10 @@
-# Accenture_challenge
-Este projeto foi desenvolvido como parte de um **Desafio Técnico de QA**, com foco em **automação de testes de API e Frontend** no site [DemoQA](https://demoqa.com).   Foram aplicadas boas práticas de automação, organização de código e integração contínua (CI com GitHub Actions).
+# QA Challenge – API + Frontend
+
+## 🔹 Setup
+```bash
+git clone https://github.com/seuusuario/qa-challenge.git
+cd qa-challenge
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
